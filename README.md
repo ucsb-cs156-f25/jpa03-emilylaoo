@@ -1,13 +1,6 @@
 # STARTER-jpa03
 
-```
-
 Running at: <https://ucsb-cs156-f25.github.io/jpa03-emilylaoo/>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
