@@ -1,6 +1,6 @@
 # emilylaoo-jpa03
 
-Running at: <https://ucsb-cs156-f25.github.io/jpa03-emilylaoo/>
+Running at: <https://jpa03-emilylaoo.dokku-08.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
