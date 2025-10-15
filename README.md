@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# emilylaoo-jpa03
 
 Running at: <https://ucsb-cs156-f25.github.io/jpa03-emilylaoo/>
 
